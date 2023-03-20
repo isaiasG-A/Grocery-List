@@ -48,21 +48,8 @@ article {
     height: 212px;
 }
 
-header {
-  text-align: center;
-}
-
-ul {
-
-  padding-left: 21px;
-}
-
-li {
-  padding-bottom: 10px;
-}
-
 div {
-  display: flex;
+   display: flex;
     align-items: flex-start;
     justify-content: space-around;
     padding-right: 36px;
